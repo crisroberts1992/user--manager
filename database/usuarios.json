@@ -1,8 +1,23 @@
 [
   {
+    "nombre": "roberto",
+    "apellido": "rodriguez",
+    "username": "rober",
+    "password": "f11202534f16bbb7550679bb4b513346b0d8ddf5b2edd2efa17e9db96c227eea",
+    "salt": "xhprWju7A949vC682r/qPnOh1LxRVPnuKwpxcgj00aftAiVWq+gmqaOBzb8bGOCda1b/qBdCOE8caQBkh21CcePqfQISTGIArTulCGnHRDarpmLJs6yk025p9tHKsmTdgMigx+bF8fVQNiORYiBovhpTrEVWvcBXdZJ3G+4rGL4="
+  },
+  {
     "nombre": "luis",
-    "apellido": "diaz",
-    "username": "luisdiaz",
-    "password": "16ce968d57237c9f4b44aac9d736d811ac0bc6008c3687ec1a94097a983359d9"
+    "apellido": "paz",
+    "username": "luispaz",
+    "password": "fdfbbaaab44b49edc8a419f3b5750cf4c9d896a075b8c68dee8c95d13471604c",
+    "salt": "dSx7BmRzgKlqMPR6ueabtLP9Zxj817wQnK4/duultyNtRue1XSQyGFAGXOYAPoV3yqVG1WIrlNuo5mN2sheNTNzYRavQBwSDIHmvznuwoadVXAliJ2KS4WRNtE7drXi2FrHjyN1fPLY8v0zAcr+PPG1QkVcsdrxTmwgHBlY/dks="
+  },
+  {
+    "nombre": "carlos",
+    "apellido": "gomez",
+    "username": "carli",
+    "password": "04e17f772863fb412206514989ebc3b0bb5cd5e099452e733303dd9c9abbad52",
+    "salt": "OHhbnUCYEWM2SOpz7G8pp8ZpT8zEgsA3jbAlHHZfVKdmjh5UDKUl9UF4oyyfcRvhvddSgtCqyKrNbeVT0VK/0FX9iVSE+8qS132Nx6r0MyiTVpc4Jrg60q2wsV7KUKFT/9mRRyw9PjxZn9s8s5067mXwTngy5AuwbQs/mpcMypA="
   }
 ]
